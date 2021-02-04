@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.strange {
+    border-radius: 5px;
+    text-decoration:underline;
+}
+
+#selector {
+    animation: foo 2s;
+}
+
+#selectorsss {
+    animation: foo 2s;
+}
+
